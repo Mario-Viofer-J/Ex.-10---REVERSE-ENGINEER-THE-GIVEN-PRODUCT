@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.4   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 28/04/2024
 
@@ -31,11 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Screenshot 2024-04-27 135450](https://github.com/iamyadhav/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147139713/b846a50c-d813-4935-b439-68100bcd1bab)
+![image](https://github.com/Mario-Viofer-J/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979232/d7d1880d-5de0-4828-a702-defef244d3f8)
 
 ### Output:
 
-![Screenshot 2024-04-27 135154](https://github.com/iamyadhav/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147139713/250d077e-cd16-4057-9303-9368b035569c)
+![image](https://github.com/Mario-Viofer-J/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979232/c4959807-241e-45ee-88a5-841afe47c135)
 
 ### Name: MARIO VIOFER J
 ### Register Number:212223100032
